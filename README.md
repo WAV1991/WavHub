@@ -31,7 +31,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/WAV1991/WavHub/refs/h
   - Jade Shatter.
 - Troll:
   - Pizza Sound Spam.
-  - Lag.
   - Glow.
   - Follow Player.
   - Auto Emote Duo.
